@@ -1,0 +1,2 @@
+-(on user creation)fetch user wallet creation time
+-keep updating user with numb txs and diff tokens

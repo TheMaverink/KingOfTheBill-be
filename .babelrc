@@ -15,7 +15,7 @@
             "@routes": "./src/routes",
             "@commands": "./src/commands",
             "@controllers": "./src/controllers",
-            "@workers": "./src/workers",
+            "@tasks": "./src/tasks",
             "@models": "./src/models",
             "@consts": "./src/consts",
             "@utils": "./src/utils"

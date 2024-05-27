@@ -1,0 +1,204 @@
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:13:36"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:13:36"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:14:42"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:14:42"}
+{"level":"error","message":"startBlockchainUpdater is not defined","service":"pf","stack":"ReferenceError: startBlockchainUpdater is not defined\n    at /Users/juliomauro/Desktop/dev/kingofthebill/KingOfTheBill-be/src/index.js:89:5\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-05-27 14:15:58"}
+{"level":"error","message":"startBlockchainUpdater is not defined","service":"pf","stack":"ReferenceError: startBlockchainUpdater is not defined\n    at /Users/juliomauro/Desktop/dev/kingofthebill/KingOfTheBill-be/src/index.js:89:5\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-05-27 14:15:58"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:16:04"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:16:04"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:17:02"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:17:02"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:17:11"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:17:11"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:17:35"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:17:35"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:18:47"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:18:47"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:19:07"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:19:07"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:19:30"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:19:30"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:19:56"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:19:56"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:21:37"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:21:37"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:21:55"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:21:55"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:21:59"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:21:59"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:24:42"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:24:42"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:24:51"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:24:51"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:25:31"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:25:31"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:29:24"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:29:24"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:30:16"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:30:16"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:31:09"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:31:09"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:34:37"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:34:37"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:41:59"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:41:59"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:42:36"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:42:36"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:43:58"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:43:58"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:44:36"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:44:36"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:46:20"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:46:20"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:52:55"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:52:55"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:53:37"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:53:37"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:54:11"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:54:11"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 14:55:33"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 14:55:33"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 15:01:39"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 15:01:39"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 15:02:03"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 15:02:03"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 15:02:28"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 15:02:28"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 15:03:08"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 15:03:08"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 15:03:31"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 15:03:31"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 15:07:51"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 15:07:51"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 15:08:17"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 15:08:17"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 15:08:34"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 15:08:34"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 15:09:11"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 15:09:11"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 15:09:28"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 15:09:28"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 15:09:47"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 15:09:47"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 15:10:39"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 15:10:39"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 15:31:25"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 15:31:25"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 15:32:43"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 15:32:43"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 15:33:39"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 15:33:39"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 15:34:14"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 15:34:14"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 15:40:29"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 15:40:29"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 16:00:02"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 16:00:02"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 16:07:35"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 16:07:35"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 16:08:06"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 16:08:06"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 16:08:58"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 16:08:58"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 16:09:16"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 16:09:16"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 16:10:20"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 16:10:20"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 16:10:38"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 16:10:38"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 16:15:45"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 16:15:45"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 16:17:46"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 16:17:46"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 16:18:13"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 16:18:13"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 16:18:34"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 16:18:34"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 16:27:49"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 16:27:49"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 16:28:18"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 16:28:18"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 16:30:37"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 16:30:37"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 16:31:46"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 16:31:46"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 16:32:07"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 16:32:07"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 16:45:56"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 16:45:56"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 16:46:05"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 16:46:05"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 16:48:29"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 16:48:29"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 16:48:42"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 16:48:42"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 16:49:03"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 16:49:03"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 16:53:09"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 16:53:09"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 16:54:00"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 16:54:00"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 16:55:39"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 16:55:39"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 16:55:45"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 16:55:46"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 17:01:11"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 17:01:11"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 17:04:20"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 17:04:20"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 17:22:51"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 17:22:51"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 17:24:12"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 17:24:12"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 17:24:46"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 17:24:46"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 17:31:19"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 17:31:19"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 17:39:02"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 17:39:02"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 17:39:40"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 17:39:40"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 17:40:12"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 17:40:12"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 17:41:08"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 17:41:08"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 17:47:04"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 17:47:04"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 17:49:26"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 17:49:26"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 17:51:57"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 17:51:57"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 17:52:32"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 17:52:32"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 17:58:07"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 17:58:07"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 17:59:02"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 17:59:02"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 18:03:18"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 18:03:18"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 18:03:53"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 18:03:53"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 18:07:07"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 18:07:07"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 18:34:58"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 18:34:58"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 18:45:49"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 18:45:49"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 19:49:37"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 19:49:37"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 19:51:05"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 19:51:05"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 19:52:16"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 19:52:16"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 19:52:39"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 19:52:39"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 19:56:00"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 19:56:00"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 19:56:53"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 19:56:53"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 19:57:05"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 19:57:05"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 19:58:01"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 19:58:01"}
+{"level":"info","message":"\u001b[32m✓\u001b[39m App is running at http://localhost:8080 in development mode","service":"pf","timestamp":"2024-05-27 19:58:06"}
+{"level":"info","message":"🟢 Press CTRL-C to stop","service":"pf","timestamp":"2024-05-27 19:58:06"}

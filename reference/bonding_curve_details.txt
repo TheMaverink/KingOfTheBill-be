@@ -1,0 +1,51 @@
+
+Given the information that the bonding curve has virtual token and SOL reserves, starts at 30 SOL and 1,073,000,000 tokens, and maintains k = 32,190,000,000, we can derive the bonding curve formula based on the XYK model:
+
+### Initial Reserves and Constant
+- Initial SOL reserve (R_SOL): 30 SOL
+- Initial token reserve (R_token): 1,073,000,000 tokens
+- Constant product (k): 32,190,000,000
+
+### XYK Model
+The XYK model is based on the constant product formula:
+R_SOL * R_token = k
+
+Given the initial reserves, the constant k is:
+30 * 1,073,000,000 = 32,190,000,000
+
+### Bonding Curve Formula
+To maintain this invariant, any change in the reserves should adhere to this constant product relationship.
+
+### Price Calculation
+The price at any point on the curve can be derived as:
+Price = R_SOL / R_token
+
+Given the current reserves, the price can be adjusted as tokens or SOL are added or removed, ensuring the product remains constant.
+
+### Adding/Removing Tokens or SOL
+
+#### Adding/Removing SOL
+When adding ΔR_SOL to the SOL reserve:
+(R_SOL + ΔR_SOL) * R_token = k
+R_token = k / (R_SOL + ΔR_SOL)
+
+When removing ΔR_SOL from the SOL reserve:
+(R_SOL - ΔR_SOL) * R_token = k
+R_token = k / (R_SOL - ΔR_SOL)
+
+#### Adding/Removing Tokens
+When adding ΔR_token to the token reserve:
+R_SOL * (R_token + ΔR_token) = k
+R_SOL = k / (R_token + ΔR_token)
+
+When removing ΔR_token from the token reserve:
+R_SOL * (R_token - ΔR_token) = k
+R_SOL = k / (R_token - ΔR_token)
+
+### Example Calculation
+Suppose we want to calculate the price after adding 10 SOL to the reserve:
+- Initial reserves: R_SOL = 30, R_token = 1,073,000,000
+- Added SOL: ΔR_SOL = 10
+- New SOL reserve: R_SOL + ΔR_SOL = 40
+- New token reserve: R_token = k / 40 = 804,750,000
+- New price: Price = 40 / 804,750,000 ≈ 4.97 x 10^-8 SOL per token
