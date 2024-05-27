@@ -1,0 +1,27 @@
+{
+    "presets": ["@babel/preset-env"],
+    "env": {
+      "production": {
+        "plugins": ["transform-remove-console"]
+      }
+    },
+    "plugins": [
+      "transform-optional-chaining",
+      [
+        "module-resolver",
+        {
+          "root": ["./src"],
+          "alias": {
+            "@routes": "./src/routes",
+            "@commands": "./src/commands",
+            "@controllers": "./src/controllers",
+            "@workers": "./src/workers",
+            "@models": "./src/models",
+            "@consts": "./src/consts",
+            "@utils": "./src/utils"
+          }
+        }
+      ]
+    ]
+  }
+  
