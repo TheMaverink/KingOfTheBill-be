@@ -39,6 +39,8 @@ const getNewMints = async () => {
               maxSupportedTransactionVersion: 0,
             });
 
+            const { slot, blockTime } = txInfo;
+
             const { staticAccountKeys } = txInfo.transaction.message;
 
             const coinMint = staticAccountKeys[1];
@@ -53,6 +55,10 @@ const getNewMints = async () => {
             );
 
             const savedCoin = await Coin.findOne({ mint: coinMint });
+            console.log("!savedCoin");
+            console.log(!savedCoin);
+            console.log(savedCoin.mint)
+
 
             if (!savedCoin) {
               const coinMintPk = new PublicKey(coinMint);
@@ -72,20 +78,23 @@ const getNewMints = async () => {
                 telegram: metadata?.telegram || null,
                 twitter: metadata?.twitter || null,
                 website: metadata?.website || null,
+                coin_creation_slot: slot,
+                coin_creation_blocktime: blockTime,
               });
 
-              console.log(newCoin)
-
+              // console.log(newCoin.name);
               await newCoin.save();
             }
           } catch (error) {
             console.log("getTransactionsPromisesArray error");
             console.log(error);
+   
+            console.log("----");
           }
         }
       );
 
-      const transactions = await Promise.all(getTransactionsPromisesArray);
+      await Promise.all(getTransactionsPromisesArray);
     } catch (error) {}
   }, TIME_INTERVAL);
 };

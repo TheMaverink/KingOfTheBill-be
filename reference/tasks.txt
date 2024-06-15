@@ -1,2 +1,7 @@
 -(on user creation)fetch user wallet creation time
 -keep updating user with numb txs and diff tokens
+-call pf apis just to update our db with coins and users
+-change users -> wallets and users would be just the platform users?
+-add coin/user views?
+-add voting system?
+

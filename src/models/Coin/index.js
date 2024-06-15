@@ -42,35 +42,39 @@ import mongoose from "mongoose";
 
 const coinSchema = new mongoose.Schema(
   {
-    mint_signature: {
-      type: String,
-    },
     mint: {
       type: String,
       unique: true,
-      index: true,
       required: true,
+    },
+    mint_signature: {
+      type: String,
     },
     creator: {
       type: mongoose.Schema.Types.ObjectId,
       ref: "User",
+      index: true,
     },
     bounding_curve: {
       type: String,
     },
-
     associated_bounding_curve: {
       type: String,
     },
-
     virtual_sol_reserves: {
       type: Number,
     },
     virtual_token_reserves: {
       type: Number,
     },
-
     total_supply: {
+      type: Number,
+    },
+    market_cap_sol: {
+      type: Number,
+      index: true,
+    },
+    usd_market_cap: {
       type: Number,
     },
     name: {
@@ -97,6 +101,24 @@ const coinSchema = new mongoose.Schema(
     website: {
       type: String,
     },
+    coin_creation_slot: {
+      type: Number,
+    },
+    coin_creation_blocktime: {
+      type: Date,
+      index: true,
+    },
+    raydium_timestamp: {
+      type: Date,
+    },
+    raydium_pool: {
+      type: String,
+      index: true,
+    },
+    king_of_the_hill_timestamp: {
+      type: Date,
+      index: true,
+    },
 
     //---
     tx_index: {
@@ -109,17 +131,6 @@ const coinSchema = new mongoose.Schema(
     raydium_pool: {
       type: String, //?
     },
-    complete: {
-      type: Boolean,
-      index: true,
-    },
-
-    king_of_the_hill_timestamp: {
-      type: Date,
-    },
-    market_cap: {
-      type: Number,
-    },
     reply_count: {
       type: Number,
     },
@@ -129,9 +140,6 @@ const coinSchema = new mongoose.Schema(
     nsfw: {
       type: Boolean,
     },
-    market_id: {
-      type: String,
-    },
 
     // creator_username: {
     //   type: String,
@@ -139,9 +147,7 @@ const coinSchema = new mongoose.Schema(
     // creator_profile_image: {
     //   type: String,
     // },
-    usd_market_cap: {
-      type: Number,
-    },
+
     //add holders?
   },
   { timestamps: true }

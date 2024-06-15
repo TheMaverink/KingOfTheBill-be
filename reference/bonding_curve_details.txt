@@ -49,3 +49,6 @@ Suppose we want to calculate the price after adding 10 SOL to the reserve:
 - New SOL reserve: R_SOL + ΔR_SOL = 40
 - New token reserve: R_token = k / 40 = 804,750,000
 - New price: Price = 40 / 804,750,000 ≈ 4.97 x 10^-8 SOL per token
+
+
+https://iandevendorf.medium.com/uniswap-a-closer-look-at-the-bonding-curve-62f98b2af927#:~:text=In%20the%20case%20of%20Uniswap,are%20changed%20by%20the%20trades.
